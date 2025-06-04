@@ -3,9 +3,41 @@
       <channel>
         <title>Welcome to Spyder's Blog</title>
         <link>https://www.spyder-ide.org/blog</link>
-        <description>Get the ease of use of Jupyter along with many advanced features found in PyCharm and VSCode in a single programming environment | Designed by the community, for the community</description>
+        <description>Get the ease of use of Jupyter along with many advanced features found in PyCharm and VSCode in a single programming environment</description>
         <atom:link href="https://www.spyder-ide.org/blog/feed.xml" rel="self" type="application/rss+xml"/>
         
+    <item>
+      <title>Spyder 6 project lead: Remote development interface and application UI/UX improvements</title>
+      <link>https://www.spyder-ide.org/blog/spyder-6-carlos</link>
+      <description>Spyder's lead maintainer, Carlos Cordoba, shares his insights on the projects and features he helped develop for Spyder 6.0, particularly UI/UX and where the IDE is headed next.</description>
+      <category>Releases</category>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
+  
+    <item>
+      <title>Spyder 6 under the hood: Editor migration, remote dev QA, test overhaul and more!</title>
+      <link>https://www.spyder-ide.org/blog/spyder-6-daniel</link>
+      <description>Beyond the headline features, there's a lot more new and improved under the hood in Spyder 6. Daniel Althviz, Spyder's release manager and co-maintainer, was at the forefront of much of it, and we're here to share the highlights with all of you and what he plans to work on next!</description>
+      <category>Releases</category>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
+  
+    <item>
+      <title>The inside scoop on Spyder 6's new remote development platform</title>
+      <link>https://www.spyder-ide.org/blog/spyder-6-remote-development</link>
+      <description>Spyder 6 includes a brand new remote development platform, building the foundations for enabling Spyder to easily leverage the power and data of remote desktops, servers, clusters and the cloud from anywhere! Hendrik Louzada, the lead developer behind this new backend, shares the details on how it all works, how he implemented it and his experiences doing so, and what's next for remote development in Spyder 6.1!</description>
+      <category>Releases</category>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
+  
+    <item>
+      <title>Officially announcing the release of Spyder 6!</title>
+      <link>https://www.spyder-ide.org/blog/release-spyder-6.0.0</link>
+      <description>After two years in development and more than 2600 commits from over two dozen authors around the world, Spyder 6.0.0 had its stable release on September 3, 2024! Now that 6.0.1 is out and the dust has settled, we'd like to formally announce the release here, thank those who've contributed to it, and introduce a series of posts highlighting its major new features and improvements that haven't already been showcased here.</description>
+      <category>Releases</category>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
+  
     <item>
       <title>Scientific IDE UX Birds of a Feather session at SciPy 2024</title>
       <link>https://www.spyder-ide.org/blog/ide-ux-bof-scipy-2024</link>
